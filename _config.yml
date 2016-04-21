@@ -1,0 +1,28 @@
+name: WorldTravelFamily
+favicon: null
+layout_spectrum: 0.861233894713223
+typography_spectrum: 0.8926538673695177
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5209824685007334
+  lightness: 0.5300336389336735
+  saturation: 0.5715484896209091
+  rhythmicContrast: 0.1645857037510723
+purpose: []
