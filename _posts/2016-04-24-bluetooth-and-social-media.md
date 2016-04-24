@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '- Credit, Debit, Gift, Loyalty, Gym, Library, etc.'
-datePublished: '2016-04-24T16:57:56.836Z'
-dateModified: '2016-04-24T16:57:44.713Z'
+datePublished: '2016-04-24T16:58:45.262Z'
+dateModified: '2016-04-24T16:58:30.865Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher:
   name: null
@@ -22,7 +24,7 @@ url: bluetooth-and-social-media/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76af0085-8f93-443c-a9ef-6b4d9312512e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1371abb0e8fbdc8646e664ff9523b230a207498.jpg)
 
 ## Holds All Cards
 
