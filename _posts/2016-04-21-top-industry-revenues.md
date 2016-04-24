@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=hkNb2bnd5Ok&feature=youtu.be'
 inLanguage: en
-starred: false
 keywords:
   - duration
   - views
@@ -17,8 +16,8 @@ keywords:
   - industry
   - copyright
 description: ''
-datePublished: '2016-04-21T05:52:08.746Z'
-dateModified: '2016-04-21T05:51:52.638Z'
+datePublished: '2016-04-24T22:23:26.117Z'
+dateModified: '2016-04-24T22:23:21.974Z'
 author:
   - name: ''
     url: 'https://www.youtube.com/channel/UCyYxgLEW7PLERvtSqzAVdKQ'
@@ -62,14 +61,15 @@ app_links:
     namespace: google
     type: ios
 title: Top Industry Revenues
+sourcePath: _posts/2016-04-21-top-industry-revenues.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-04-21-top-industry-revenues.md
-published: true
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
