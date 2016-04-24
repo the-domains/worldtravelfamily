@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T21:04:55.158Z'
-dateModified: '2016-04-24T21:04:42.669Z'
+datePublished: '2016-04-24T21:05:12.890Z'
+dateModified: '2016-04-24T21:05:04.434Z'
 title: Annual Revenues
 author: []
 sourcePath: _posts/2016-04-24-annual-revenues.md
