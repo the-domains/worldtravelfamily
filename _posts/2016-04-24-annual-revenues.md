@@ -15,10 +15,12 @@ keywords:
   - salespeople
   - devos
   - amway
-description: ''
-datePublished: '2016-04-24T19:20:52.582Z'
-dateModified: '2016-04-24T19:19:23.426Z'
-author: []
+description: The Road to $1 Billion
+datePublished: '2016-04-24T19:31:02.888Z'
+dateModified: '2016-04-24T19:30:51.207Z'
+author:
+  - name: ''
+    url: ''
 related:
   - score: 0.553211391
     description: 'There is a lot of coverage of the companies that have reached valuations of over a billion dollars. Many of these companies were not always fast growing businesses. At Shasta Ventures, we focus on investing at the early stage, so we studied 32 high value consumer companies to see what they looked like around their Series A.'
@@ -29,6 +31,8 @@ related:
     thumbnail_width: 1200
 app_links: []
 title: Annual Revenues
+sourcePath: _posts/2016-04-24-annual-revenues.md
+published: true
 authors: []
 publisher:
   name: Directsellingnews
@@ -36,15 +40,10 @@ publisher:
   url: 'http://directsellingnews.com'
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-annual-revenues.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
 # Annual Revenues
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e080019-9806-4a70-a163-e3d25d25e305.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3a5d340-bfcc-44f6-9b7b-6248bc6aab66.jpg)
 
-  
 <article style=""><h1>The Road to $1 Billion - Direct Selling News</h1><p>The Road to $1 Billion</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d30e7b765c91af80c0cdaff2dde03957c61c882a.jpg" /></article>
