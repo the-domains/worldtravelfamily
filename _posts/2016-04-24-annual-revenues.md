@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T21:04:39.032Z'
-dateModified: '2016-04-24T21:04:14.487Z'
+datePublished: '2016-04-24T21:04:55.158Z'
+dateModified: '2016-04-24T21:04:42.669Z'
 title: Annual Revenues
 author: []
 sourcePath: _posts/2016-04-24-annual-revenues.md
@@ -56,3 +56,7 @@ _type: Article
 - $4.8 Billion (2013)  
 - $5.0 Billion (2014)  
 - $4.47 Billion (2015)
+
+Source: [www.directsellingnews.com][0]
+
+[0]: www.directsellingnews.com
