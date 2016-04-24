@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '- Credit, Debit, Gift, Loyalty, Gym, Library, etc.'
-datePublished: '2016-04-24T16:58:45.262Z'
-dateModified: '2016-04-24T16:58:30.865Z'
+datePublished: '2016-04-24T17:05:13.729Z'
+dateModified: '2016-04-24T17:05:05.231Z'
 title: ''
 author:
   - name: ''
@@ -24,6 +24,7 @@ url: bluetooth-and-social-media/index.html
 _type: Article
 
 ---
+# Smart Card
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1371abb0e8fbdc8646e664ff9523b230a207498.jpg)
 
 ## Holds All Cards
@@ -55,3 +56,5 @@ _type: Article
 - Automatically Tracks Points
 
 ## Waterproof Touch Screen
+
+Coming Soon: August 2016
