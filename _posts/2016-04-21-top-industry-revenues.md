@@ -16,8 +16,8 @@ keywords:
   - industry
   - copyright
 description: ''
-datePublished: '2016-04-24T22:23:26.117Z'
-dateModified: '2016-04-24T22:23:21.974Z'
+datePublished: '2016-04-24T22:23:41.048Z'
+dateModified: '2016-04-24T22:23:35.317Z'
 author:
   - name: ''
     url: 'https://www.youtube.com/channel/UCyYxgLEW7PLERvtSqzAVdKQ'
@@ -69,7 +69,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-starred: false
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
