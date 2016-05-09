@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-09T18:28:42.970Z'
-dateModified: '2016-05-09T18:28:21.637Z'
+datePublished: '2016-05-09T18:29:21.036Z'
+dateModified: '2016-05-09T18:28:49.264Z'
 title: Fastest Growing Companies in the World
 author: []
 sourcePath: _posts/2016-04-24-fastest-growing-companies.md
