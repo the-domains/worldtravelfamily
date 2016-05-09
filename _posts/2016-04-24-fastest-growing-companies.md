@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-09T18:32:25.977Z'
-dateModified: '2016-05-09T18:32:07.588Z'
+datePublished: '2016-05-09T18:34:23.066Z'
+dateModified: '2016-05-09T18:34:06.079Z'
 title: Fastest Growing Companies in the World
 author: []
 sourcePath: _posts/2016-04-24-fastest-growing-companies.md
@@ -22,7 +22,7 @@ _type: Article
 
 ---
 # Fastest Growing Companies in the World
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c0e2ed0-0f67-402d-884d-efcee4637a7a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93652e81-a22c-4a0a-b40f-c1e69227cad3.jpg)
 
 "WorldVentures(tm), the leading international direct seller of vacation club memberships, ranked No. 915 in Inc. magazine's 34th annual Inc. 5000, an exclusive ranking of America's fastest-growing private companies. WorldVentures received its ranking based on growth of 491% in the past three years." 
 
